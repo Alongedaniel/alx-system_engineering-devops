@@ -1,6 +1,2 @@
 #!/bin/bash
-total 12
--rw-r--r-- 1 root root 16 Aug 31 05:10 0-current_working_directory
--rwxr-xr-x 1 root root 65 Aug 31 05:50 1-listit
--rwxr-xr-x 1 root root 15 Aug 31 05:42 2-bring_me_home
--rw-r--r-- 1 root root  0 Aug 31 05:52 3-listfiles
+total 12 -rw-r--r-- 1 root root 16 Aug 31 05:10 0-current_working_directory -rwxr-xr-x 1 root root 65 Aug 31 05:50 1-listit -rwxr-xr-x 1 root root 15 Aug 31 05:42 2-bring_me_home -rw-r--r-- 1 root root  0 Aug 31 05:52 3-listfiles
