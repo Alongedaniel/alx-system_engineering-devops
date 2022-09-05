@@ -1,4 +1,0 @@
-#!/bin/bash
-read -p "Filename: " FILENAME
-touch $FILENAME
-chmod +x $FILENAME
